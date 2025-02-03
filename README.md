@@ -42,11 +42,6 @@
 
 ---
 
-📈 **Статистика GitHub:**
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=esykai&show_icons=true&theme=radical)](https://github.com/esykai)
-
----
-
 📫 **Как связаться:**
 - 💌 Email: esykaidev@gmail.com
 - 📱 Telegram: [@fvvqxi](https://t.me/fvvqxi)
