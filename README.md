@@ -10,12 +10,16 @@
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.95%2B-009688?logo=fastapi)](https://fastapi.tiangolo.com)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15%2B-336791?logo=postgresql)](https://postgresql.org)
 [![Docker](https://img.shields.io/badge/Docker-24.0%2B-2496ED?logo=docker)](https://docker.com)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-1.28%2B-326CE5?logo=kubernetes)](https://kubernetes.io)
 
-**Backend**: Flask, gRPC, REST, asyncio  
-**Базы данных**: MongoDB, MySQL, Redis, ClickHouse, YDB  
-**Инфраструктура**: Nginx, GitHub Actions, Prometheus/Grafana, Kafka, RabbitMQ  
+**Backend**: Flask, FastAPI, asyncio, ORM(SQLAlchemy), gRPC, REST API
+
+**Базы данных**: SQLite, PostgreSQL, MySQL, MongoDB, Redis, ClickHouse, YDB
+
+**Инфраструктура**: Docker, Nginx, Apache, Github Actions, Prometheus/Grafana, Kafra, RabbitMQ
+
 **Инструменты**: pytest, pandas, GitLab, Jira, Yandex Tracker
+
+**Cl/CD**: Github Actions
 
 ---
 
