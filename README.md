@@ -1,4 +1,5 @@
-### 👋 Привет! Я Андрей Абрамов
+### 👋 Привет! Я Андрей Абрамов <img src="https://github.com/images/mona-whisper.gif" width="40">
+
 **Python Backend Developer** | 🚀 Создаю эффективные решения | [Мой блог](http://akeidev.ru/) | [Проекты](https://github.com/yourusername)
 
 ---
