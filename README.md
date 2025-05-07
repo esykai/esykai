@@ -11,11 +11,11 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15%2B-336791?logo=postgresql)](https://postgresql.org)
 [![Docker](https://img.shields.io/badge/Docker-24.0%2B-2496ED?logo=docker)](https://docker.com)
 
-**Backend**: Flask, FastAPI, asyncio, ORM(SQLAlchemy), gRPC, REST API
+**Backend**: Flask, FastAPI, asyncio, ORM(SQLAlchemy), REST API
 
-**Базы данных**: SQLite, PostgreSQL, MySQL, MongoDB, Redis, ClickHouse, YDB
+**Базы данных**: SQLite, PostgreSQL, MySQL, MongoDB, Redis
 
-**Инфраструктура**: Docker, Nginx, Apache, Github Actions, Prometheus/Grafana, Kafra, RabbitMQ
+**Инфраструктура**: Docker, Nginx, Apache, Github Actions, Prometheus/Grafana, Kafra
 
 **Инструменты**: pytest, pandas, GitLab, Jira, Yandex Tracker
 
