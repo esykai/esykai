@@ -1,6 +1,6 @@
 ### 👋 Привет! Я Андрей Абрамов <img src="https://github.com/images/mona-whisper.gif" width="40">
 
-**Python Backend Developer** | 🚀 Создаю эффективные решения | [Мой блог](http://akeidev.ru/) | [Проекты](https://github.com/yourusername)
+**Python Backend Developer** | 🚀 Создаю эффективные решения | [Мой блог](https://akeidev.ru/blog/pages/blog/) | [Проекты](https://github.com/esykai?tab=repositories)
 
 ---
 
@@ -15,9 +15,9 @@
 
 **Базы данных**: SQLite, PostgreSQL, MySQL, MongoDB, Redis
 
-**Инфраструктура**: Docker, Nginx, Apache, Github Actions, Prometheus/Grafana, Kafra
+**Инфраструктура**: Docker, Nginx, Apache, Github Actions, Prometheus/Grafana, Kafka
 
-**Инструменты**: pytest, pandas, GitLab, Jira, Yandex Tracker
+**Инструменты**: pytest, GitLab, Trello, Jira, Yandex Tracker
 
 **Cl/CD**: Github Actions
 
@@ -25,12 +25,12 @@
 
 💡 **Ключевые проекты:**
 
-#### 🤖 [Университетские Telegram-боты](https://github.com/1)
+#### 🤖 [Университетские Telegram-боты]()
 - Автоматизация процессов для 2700+ пользователей
 - Стек: Python + Flask + PostgreSQL + Docker
 - Результат: **85%** студентов нашли друзей через бота
 
-#### 🔐 [Защита данных вуза](https://github.com/1)
+#### 🔐 [Защита данных вуза](https://akeidev.ru/blog/pages/blog/security/nngasu.html)
 - Обнаружение и устранение уязвимости для 10k+ студентов
 - Ручное тестирование + видео-доклад
 
