@@ -1,6 +1,6 @@
 ### 👋 Привет! Я Андрей Абрамов <img src="https://github.com/images/mona-whisper.gif" width="40">
 
-**Python Backend Developer** | 🚀 Создаю эффективные решения | [Мой блог](https://akeidev.ru/blog/pages/blog/) | [Проекты](https://github.com/esykai?tab=repositories)
+**Python Backend Developer** | 🚀 Создаю эффективные решения | 
 
 ---
 
