@@ -3,10 +3,10 @@
 </strong></samp></h2>
 
 ### 🚀 About Me
-- 20 y.o. backend developer from Russia  
+- 21 y.o. backend developer from Russia  
 - Love building **complex, battle-tested systems** that handle real load without breaking a sweat  
 - Main weapons: **Go** (for performance & concurrency) + **Python/FastAPI** (for rapid, beautiful APIs)  
-- Obsessed with scalability: **Kafka**, **Redis**, **PostgreSQL/MongoDB** under high pressure  
+- Obsessed with scalability: **Kafka**, **Redis**, **PostgreSQL** under high pressure  
 - Daily coding on **Windows** + **macOS** (Linux vibes incoming)  
 
 ### 💻 Language Stack
@@ -16,7 +16,6 @@
 ### 💻 Tech Stack
 [![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://mongodb.com)
 [![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io)
 [![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)](https://kafka.apache.org)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)
